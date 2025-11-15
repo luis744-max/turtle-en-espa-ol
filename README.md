@@ -68,82 +68,157 @@ A continuación se listan todos los comandos disponibles y su equivalente origin
 
 Finalización
 Español	Turtle original
+
 listo()	turtle.done()
+
 adios()	turtle.bye()
+
 Movimientos
+
 Español	Turtle original
+
 avanzar(n)	t.forward(n)
+
 retroceder(n)	t.backward(n)
+
 Giros
+
 Español	Turtle original
+
 derecha(a)	t.right(a)
+
 izquierda(a)	t.left(a)
+
 Bucles
+
 Español	Turtle original
+
 repetir(n)	range(n)
+
 Figuras y sellos
+
 Español	Turtle original
+
 punto(tamaño, color)	t.dot()
+
 circulo(radio, a)	t.circle()
+
 triangulo(lado)	3 veces: derecha(120) + avanzar(lado)
+
 cuadrado(lado)	4 veces: derecha(90) + avanzar(lado)
+
 pentagono(lado)	5 veces: derecha(72) + avanzar(lado)
+
 hexagono(lado)	6 veces: derecha(60) + avanzar(lado)
+
 sellar()	t.stamp()
+
 borrarSellos()	t.clearstamps()
+
 Relleno
+
 Español	Turtle original
+
 colorDeRelleno(c)	t.fillcolor(c)
+
 empezarRelleno()	t.begin_fill()
+
 finalizarRelleno()	t.end_fill()
+
 Posición y orientación
+
 Español	Turtle original
+
 ir(x, y)	t.goto(x, y)
+
 irCentro()	t.home()
+
 ubicacion()	t.pos()
+
 dejarAngulo(a)	t.seth(a)
+
 anguloActual()	t.heading()
+
 arribaActual()	t.ycor()
+
 derechaActual()	t.xcor()
+
 distancia(x, y)	t.distance(x, y)
+
 direccionHasta(x, y)	t.towards(x, y)
+
 Pantalla y apariencia
+
 Español	Turtle original
+
 mostrarTortuga()	t.showturtle()
+
 ocultarTortuga()	t.hideturtle()
+
 reiniciar()	t.reset()
+
 borrar()	t.clear()
+
 titulo(texto)	turtle.title(texto)
+
 ColorPantalla(color)	turtle.bgcolor(color)
+
 Lápiz
+
 Español	Turtle original
+
 lapizArriba()	t.penup()
+
 lapizAbajo()	t.pendown()
+
 lapizColor(c)	t.pencolor(c)
+
 velocidad(n)	t.speed(n)
+
 formaTortuga(f)	t.shape(f)
+
 tamañoTortuga(h, a)	t.shapesize(h, a)
+
 colorLineaYRelleno(l, r)	t.color(l, r)
+
 anchoLinea(n)	t.pensize(n)
+
 estaAbajo()	t.isdown()
+
 Tiempo y animación
+
 Español	Turtle original
+
 esperar(ms)	turtle.delay(ms)
+
 NoAnimacion()	turtle.tracer(0)
+
 actualizar()	turtle.update()
+
 Colores disponibles
+
 
 Los siguientes colores en español se traducen a su equivalente en inglés:
 
 rojo → red
+
+
 azul → blue
+
 verde → green
+
 amarillo → yellow
+
 negro → black
+
 blanco → white
+
 morado → purple
+
 naranja → orange
+
 gris → gray
+
 rosado → pink
 
 Contribuciones
@@ -157,6 +232,7 @@ MIT License.
 
 Este proyecto está licenciado bajo los términos de la **MIT License**.  
 Puedes encontrar el archivo de licencia en el repositorio con el nombre **LICENSE**.
+
 
 
 
