@@ -29,7 +29,9 @@ Luego impórtalo así:
 from timepython import *
 
 Ejemplo rápido de uso
+
 from timepython import *
+import turtle
 
 ColorPantalla("azul")
 lapizColor("rojo")
@@ -42,7 +44,7 @@ listo()
 
 Para que el instalador funcione correctamente:
 
-- Debe tener importado turtle con "import turtle"
+- Debe tener importado turtle con `import turtle`
 - El archivo `timepython.py` debe estar directamente en el Escritorio.
 - El archivo `instalador.py` también debe estar directamente en el Escritorio.
 - No deben estar dentro de ninguna carpeta.
@@ -149,5 +151,6 @@ MIT License.
 
 Este proyecto está licenciado bajo los términos de la **MIT License**.  
 Puedes encontrar el archivo de licencia en el repositorio con el nombre **LICENSE**.
+
 
 
