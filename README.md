@@ -17,7 +17,7 @@ Facilita el aprendizaje para quienes no dominan el inglés.
 
 Instalación
 
-Coloca el archivo timepython.py en la carpeta Lib de tu instalación de Python o simplemente en el mismo directorio de tu script.
+Coloca el archivo timepython.py en Desktop junto a instalador.py . Al hacer doble click sobre instalador.py se copiara en la dirección lib en las carpetas de python 
 
 Ejemplo en Windows:
 
@@ -232,6 +232,7 @@ MIT License.
 
 Este proyecto está licenciado bajo los términos de la **MIT License**.  
 Puedes encontrar el archivo de licencia en el repositorio con el nombre **LICENSE**.
+
 
 
 
