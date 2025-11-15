@@ -139,8 +139,7 @@ rosado → pink
 
 Contribuciones
 
-Se aceptan mejoras, nuevas funciones y optimizaciones.
-Puedes abrir un issue o enviar un pull request.
+Si deseas reportar errores o proponer mejoras para futuras actualizaciones, por favor abre un issue en el repositorio.
 
 Licencia
 
@@ -149,3 +148,4 @@ MIT License.
 
 Este proyecto está licenciado bajo los términos de la **MIT License**.  
 Puedes encontrar el archivo de licencia en el repositorio con el nombre **LICENSE**.
+
