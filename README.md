@@ -31,6 +31,7 @@ from timepython import *
 Ejemplo rápido de uso
 
 from timepython import *
+
 import turtle
 
 ColorPantalla("azul")
@@ -151,6 +152,7 @@ MIT License.
 
 Este proyecto está licenciado bajo los términos de la **MIT License**.  
 Puedes encontrar el archivo de licencia en el repositorio con el nombre **LICENSE**.
+
 
 
 
